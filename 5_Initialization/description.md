@@ -1,4 +1,4 @@
-## Initialization
+## Initialization and their effects
 
 The first step that we have to do when starting training a deep neural network is to initialize our parameters.
 
