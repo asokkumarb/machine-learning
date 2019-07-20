@@ -1,1 +1,0 @@
-The residual nets are done on Coursera because the model's .h5 file was way too big to download.
